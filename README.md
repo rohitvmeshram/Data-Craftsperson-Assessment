@@ -1,7 +1,7 @@
 # **Sales Data Analysis**
 This repository contains the analysis of a sales dataset using Python and SQL. The dataset includes transaction details such as TransactionAmount, PaymentMethod, ProductName, Region, CustomerGender, and more. The goal of this project is to explore the dataset, generate key insights, and provide actionable business intelligence.
 
-#**Tools Used**
+# **Tools Used**
 Python: For data manipulation and analysis.
 
 Pandas: To load and process the dataset.
@@ -10,7 +10,7 @@ SQLite: To run SQL queries on the dataset.
 
 OpenPyXL: To read the Excel file.
 
-#**Dataset Overview**
+# **Dataset Overview**
 The dataset (assessment_dataset.xlsx) contains the following columns:
 
 TransactionID: Unique identifier for each transaction.
@@ -51,7 +51,7 @@ DeliveryTimeDays: Number of days taken for delivery.
 
 IsPromotional: Whether the transaction was part of a promotional offer (Yes/No).
 
-#**Key Insights**
+# **Key Insights**
 Total Sales and Average Order Value: Calculated using SQL queries.
 
 Total Sales by Region: The North region has the highest total sales.
