@@ -52,8 +52,8 @@ The dataset (assessment_dataset.xlsx) contains the following columns:
 📖IsPromotional: Whether the transaction was part of a promotional offer (Yes/No).
 
 # **Key Insights**
-# 1. Total Sales and Average Discount per City
-# Insight: Identifies cities with the highest total sales and average discount percentages.
+ 1. Total Sales and Average Discount per City
+ Insight: Identifies cities with the highest total sales and average discount percentages.
 
 # Usefulness: Helps businesses focus on high-performing cities and understand discount strategies in different regions.
 
