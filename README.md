@@ -1,4 +1,4 @@
-**Sales Data Analysis**
+# **Sales Data Analysis**
 This repository contains the analysis of a sales dataset using Python and SQL. The dataset includes transaction details such as TransactionAmount, PaymentMethod, ProductName, Region, CustomerGender, and more. The goal of this project is to explore the dataset, generate key insights, and provide actionable business intelligence.
 
 **Tools Used**
