@@ -137,3 +137,4 @@ Insight: Lists the top 5 products with the highest quantity sold.
  Regional Analysis: Understanding sales, returns, and delivery times by region allows businesses to address region-specific challenges and opportunities.
 
  Trend Identification: Monthly sales trends and cumulative spending patterns help in forecasting and strategic planning.
+ data set : https://drive.google.com/drive/folders/18Pt4PVqgFMHNYyCI3OUay7Hl-VRCwsDx?usp=drive_link
